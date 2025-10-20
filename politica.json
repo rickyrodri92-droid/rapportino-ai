@@ -1,0 +1,18 @@
+[
+                    {
+                        "value": "C",
+                        "display_name": "Correttiva"
+                    },
+                    {
+                        "value": "P",
+                        "display_name": "Preventiva"
+                    },
+                    {
+                        "value": "D",
+                        "display_name": "Ispettiva"
+                    },
+                    {
+                        "value": "I",
+                        "display_name": "Migliorativa"
+                    }
+]
